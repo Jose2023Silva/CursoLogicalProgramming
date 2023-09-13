@@ -19,7 +19,7 @@ Esta parte se visualiza en [Esta seccion](./Seudocodigo ) por lo que se secciona
 * Funciones
 * Funciones incorporadas
 
-El programa que se esta desarrollando es [PSint](psint.sourceforge.net)
+El programa que se esta desarrollando es [PSint](https://pseint.sourceforge.net/)
 
 ---
 ***Proximamente se visualiza las partes con lenguajes de programación.
