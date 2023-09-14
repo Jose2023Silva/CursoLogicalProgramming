@@ -12,9 +12,9 @@ Cada lenguaje de programación estará desarrollado con su propio IDE o editor d
 
 ## Pseudocodigo
 Esta parte se visualiza en [Esta seccion](./Seudocodigo ) por lo que se secciona en temas siguientes.
-* Operadores
-* Sentencias de control
-* Ciclos o loops
+* Operadores *vease [Aqui](./Seudocodigo/Operadores)*
+* Sentencias de control *vease [Aqui](./Seudocodigo/SentenciaIfElse)*
+* Ciclos o loops, *vease [Aqui](./Seudocodigo/Loops)*
 * Arreglos o vectores
 * Funciones
 * Funciones incorporadas
