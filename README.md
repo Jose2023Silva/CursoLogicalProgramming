@@ -15,7 +15,8 @@ Esta parte se visualiza en [Esta seccion](./Seudocodigo ) por lo que se secciona
 * Operadores *vease [Aqui](./Seudocodigo/Operadores)*
 * Sentencias de control *vease [Aqui](./Seudocodigo/SentenciaIfElse)*
 * Ciclos o loops, *vease [Aqui](./Seudocodigo/Loops)*
-* Arreglos o vectores
+* Arreglos o vectores *vease [Aqui](./Seudocodigo/Vectores)*
+* Matrices
 * Funciones
 * Funciones incorporadas
 
@@ -23,4 +24,5 @@ El programa que se esta desarrollando es [PSint](https://pseint.sourceforge.net/
 
 ---
 ***Proximamente se visualiza las partes con lenguajes de programación.***
-Se realizara actividades relacionado con el lenguaje de C Proximamente.
+
+==Se realizara actividades relacionado con el lenguaje de C Proximamente.==
