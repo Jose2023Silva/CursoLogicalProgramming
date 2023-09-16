@@ -22,4 +22,5 @@ Esta parte se visualiza en [Esta seccion](./Seudocodigo ) por lo que se secciona
 El programa que se esta desarrollando es [PSint](https://pseint.sourceforge.net/)
 
 ---
-***Proximamente se visualiza las partes con lenguajes de programación.
+***Proximamente se visualiza las partes con lenguajes de programación.***
+Se realizara actividades relacionado con el lenguaje de C Proximamente.
